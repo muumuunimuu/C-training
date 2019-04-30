@@ -1,0 +1,14 @@
+git init
+//ローカルリポジトリの作成
+
+git add "ファイル名"
+//ファイルの追加
+
+git commit -m "コメント"
+//ファイルの登録
+
+git remote add origin "URL"
+//Github上に送信
+
+git push origin master
+//上書き
